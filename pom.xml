@@ -24,6 +24,14 @@
         </repository>
     </repositories>
 
+    <distributionManagement>
+        <repository>
+            <id>mpos-repo</id>
+            <name>mpos release repository</name>
+            <url>https://mpos.pne.io/maven-deploy/releases</url>
+        </repository>
+    </distributionManagement>
+
     <dependencies>
         <dependency>
             <groupId>ch.qos.logback</groupId>

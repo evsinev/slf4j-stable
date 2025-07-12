@@ -1,6 +1,6 @@
 #!/bin/bash -eux
 
-CI_COMMIT_REF_NAME="1.0-1"
+CI_COMMIT_REF_NAME="1.0-3"
 
 git tag $CI_COMMIT_REF_NAME
 git push --tags
