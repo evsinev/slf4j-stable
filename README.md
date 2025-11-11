@@ -19,7 +19,7 @@ Add the following dependency to your Maven project:
 <dependency>
     <groupId>com.payneteasy</groupId>
     <artifactId>slf4j-stable</artifactId>
-    <version>1.0-3</version>
+    <version>1.0-4</version>
 </dependency>
 ```
 ### Maven Repository
